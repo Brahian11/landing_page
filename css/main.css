@@ -1,0 +1,27 @@
+body{
+    background-color: orange;
+}
+
+div {
+    padding: 10px;
+    width: 250px;
+    height: 200px;
+    border: 1px solid grey;
+    border-radius: 5px;
+    margin: 10px auto;
+    
+  }
+  input[type='submit']{
+    width: 94%;
+    margin: 10px auto;
+  }
+
+  button {
+    padding: 100px;
+    width: 300px;
+    height: 50px;
+    border: 1px solid grey;
+    border-radius: 5px;
+    margin: 10px auto;
+    
+  }
